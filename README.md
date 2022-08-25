@@ -2,6 +2,8 @@
 
 Template ARCA course
 
+See the githubpage at https://arca-dpss.github.io/course-template
+
 # Introduction 
 
 Welcome to the course...
