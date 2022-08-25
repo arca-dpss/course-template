@@ -26,10 +26,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 You can add any file, html pages, or other relevent material and create a link to them. 
 
 > Note that Jekyll will automatically create an html page for each `.md` file.
-
-For example `[link](trial-page.html)` will link to the `trial-page.html` produced by `trial-page.md` file available at the root.
-
-Click the [link](trial-page.html) to check
+>
+> For example `[link](trial-page.html)` will link to the `trial-page.html` produced by `trial-page.md` file available at the root.
+> 
+> Click the [link](trial-page.html) to check.
 
 ## TOC
 
