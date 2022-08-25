@@ -1,7 +1,5 @@
 # README
 
-{:toc}
-
 Template ARCA course
 
 # Introduction 
